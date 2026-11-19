@@ -63,11 +63,10 @@ export const projects: Project[] = [
     live: "http://www.weinerpestservices.com/",
   },
   {
-    name: "Stock Photo Search",
-    stack: "React",
-    image: "/projects/photo-search.jpg",
-    code: "https://github.com/eshans/react-photo-search",
-    live: "https://stock-photo-search-react.netlify.app/",
+    name: "Fermion",
+    stack: "Design, Branding",
+    image: "/projects/fermion.jpg",
+    live: "https://www.fermion-official.com/",
   },
   {
     name: "Cesium 137 Band Site",
